@@ -1,6 +1,6 @@
 # ZazaBinder 1.3.0 - A free silent native file binder
 
-A free silent (hidden) open-source native file binder.
+A free silent (hidden) native file binder.
 
 ## Main Features
 
